@@ -13,7 +13,7 @@ export default function Page(): JSX.Element {
         description={generalSettings?.description}
       />
       <main className="content content-page">
-        <Hero title={`Oops! That page can’t be found.`} />
+        <Hero title={`Nope! That page doesn't exist.`} />
         <div className="wrap">
           <div>
             <div>
