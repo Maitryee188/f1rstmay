@@ -37,7 +37,6 @@ export default function Page() {
           buttonURL="https://developers.wpengine.com/"
           button2Text="Headless on GitHub"
           button2URL="https://github.com/wpengine/faustjs"
-          bgImage="/images/moritz-mentges-5MlBMYDsGBY-unsplash.jpg"
           id={styles.home_hero}>
           <p>
             WP&nbsp;Engine’s Headless WordPress Framework includes this example
